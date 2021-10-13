@@ -6,7 +6,8 @@ first install dependencies
 
 ### Running
 
-this app requres mongodb connection
+this app requres mongodb connection.
+
 see `app.module.ts` for connection options, and make sure there are matching options for the mongodb installation and the source code
 
 Then, run the app:
