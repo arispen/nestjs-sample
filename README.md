@@ -19,5 +19,7 @@ Then, run the app:
 this app exposes 2 endpoints:
 
 GET /cats for retrieving cats
+
 and
+
 POST /cats for adding new cats, see `src/cats/dto/create-cat.dto.ts` for the format of a new cat
